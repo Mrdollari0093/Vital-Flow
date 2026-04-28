@@ -40,4 +40,4 @@ This project is a pixel-perfect redesign of the VITALFLOW website, focusing on:
 
 Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Redesign-VITALFLOW.git
+git clone https://github.com/Mrdollari0093/Vital-Flow.git
