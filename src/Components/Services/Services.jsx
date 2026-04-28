@@ -62,7 +62,7 @@ function Services() {
                     {service.title}
                   </h3>
 
-                  <p className="mt-5 text-base leading-7 text-gray-600">
+                  <p className="mt-5 text-sm leading-7 text-gray-600">
                     {service.description}
                   </p>
 
