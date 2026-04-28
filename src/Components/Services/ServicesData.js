@@ -6,9 +6,9 @@ import Img4 from "./Materials/Neurology.svg";
 import Img5 from "./Materials/Cardiology.svg";
 import Img6 from "./Materials/Care.svg";
 import Arrow from "./Materials/right-arrow.png";
+
 export const ServicesTitle = "Services";
 export const ServiceHeader = "Personalized solutions for better oral health";
-
 
 export const ServicesData = [
   {
@@ -66,5 +66,5 @@ export const ServicesData = [
     slug: "general-care",
   },
 ];
-export{Arrow , Logo};
-export default {ServiceHeader , ServicesTitle, Logo , Arrow , ServicesData };
+
+export { Arrow, Logo };
